@@ -1,0 +1,17 @@
+{
+  "name": "ffmpeg",
+  "version": "1.0.0",
+  "description": "node 推流 by ffmpeg",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "推流"
+  ],
+  "author": "paddington",
+  "license": "MIT",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.0"
+  }
+}
